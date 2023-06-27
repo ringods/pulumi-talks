@@ -3,7 +3,7 @@ kind: Location
 metadata:
   name: pulumi-talks
 spec:
-  owner: guests
+  owner: guest
   type: url
   targets:
     - ./20230619-cloudnative-prague/simple/backstage.yaml
