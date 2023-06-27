@@ -9,5 +9,5 @@ metadata:
     pulumi.com/project-slug: cluster
 spec:
   owner: guest
-  type: other
+  type: pulumi
   lifecycle: unknown
