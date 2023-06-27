@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: pulumi-talks
+spec:
+  type: url
+  targets:
+    - ./20230619-cloudnative-prague/simple/backstage.yaml
+    - ./20230619-cloudnative-prague/cluster/backstage.yaml

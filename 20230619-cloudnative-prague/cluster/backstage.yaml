@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cluster
+  title: Composite VPC and EKS Cluster
+  description: A project setting up a VPC and EKS cluster
+  annotations:
+    github.com/project-slug: ringods/pulumi-talks
+spec:
+  type: other
+  lifecycle: unknown

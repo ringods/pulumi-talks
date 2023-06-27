@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: simple
+  title: Simple Pulumi S3 deployment
+  description: A minimal AWS TypeScript Pulumi program
+  annotations:
+    github.com/project-slug: ringods/pulumi-talks
+spec:
+  type: other
+  lifecycle: unknown
