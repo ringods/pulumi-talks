@@ -6,6 +6,7 @@ metadata:
   description: A project setting up a VPC and EKS cluster
   annotations:
     github.com/project-slug: ringods/pulumi-talks
+    pulumi.com/project-slug: cluster
 spec:
   owner: guest
   type: other
