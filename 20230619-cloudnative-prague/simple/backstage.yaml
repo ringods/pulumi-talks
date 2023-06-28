@@ -6,7 +6,7 @@ metadata:
   description: A minimal AWS TypeScript Pulumi program
   annotations:
     github.com/project-slug: ringods/pulumi-talks
-    pulumi.com/project-slug: simple
+    pulumi.com/owner: team-ce
 spec:
   owner: guest
   type: pulumi
