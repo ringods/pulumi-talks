@@ -2,13 +2,13 @@
     "name": "cluster",
     "main": "index.ts",
     "devDependencies": {
-        "@types/node": "^16"
+        "@types/node": "^22"
     },
     "dependencies": {
-        "@pulumi/aws": "^5.0.0",
-        "@pulumi/awsx": "^1.0.2",
-        "@pulumi/eks": "^4.0.1",
-        "@pulumi/kubernetes": "^4.23.0",
-        "@pulumi/pulumi": "^3.217.0"
+        "@pulumi/aws": "^7.0.0",
+        "@pulumi/awsx": "^3.2.0",
+        "@pulumi/eks": "^4.2.0",
+        "@pulumi/kubernetes": "^4.26.0",
+        "@pulumi/pulumi": "^3.222.0"
     }
 }
